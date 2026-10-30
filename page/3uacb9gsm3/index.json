@@ -1,0 +1,37 @@
+{
+  "id": "3uacb9gsm3",
+  "name": {
+    "tr": "Aydınlatma ve halı",
+    "en": "Lighting and rugs",
+    "ar": "الإضاءة والسجاد"
+  },
+  "description": {
+    "tr": "Aydınlatma ve halı",
+    "en": "Lighting and rugs",
+    "ar": "الإضاءة والسجاد"
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "path": "aksesuar",
+  "icon": "light",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 0,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Aydınlatma ve halı",
+    "en": "Lighting and rugs",
+    "ar": "الإضاءة والسجاد"
+  },
+  "date": "2026-10-30T18:30:16.328Z",
+  "update": "2026-10-30T19:17:49.105Z"
+}

@@ -1,0 +1,47 @@
+{
+  "name": {
+    "tr": "Ürünler",
+    "en": "Products",
+    "ar": "المنتجات"
+  },
+  "status": "play",
+  "category": "",
+  "id": "urunler",
+  "url": "",
+  "path": "urunler",
+  "index": 0,
+  "icon": "chair",
+  "desing": {
+    "header": [],
+    "body": [
+      "e1kv01",
+      "2anoia"
+    ],
+    "footer": []
+  },
+  "pathnext": "",
+  "description": {
+    "tr": "Mobilya ve dekorasyon ürünleri.",
+    "en": "Furniture and decor products.",
+    "ar": "منتجات الأثاث والديكور."
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "desc": {},
+  "title": {
+    "tr": "Ürünler",
+    "en": "Products",
+    "ar": "المنتجات"
+  },
+  "keyword": {
+    "tr": "mobilya, koltuk, masa",
+    "en": "furniture, armchair, table",
+    "ar": "أثاث، كرسي، طاولة"
+  },
+  "text": {},
+  "update": "2026-10-30T19:17:49.253Z",
+  "date": "2026-10-30"
+}

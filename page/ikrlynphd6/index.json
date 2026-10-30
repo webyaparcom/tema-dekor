@@ -1,0 +1,52 @@
+{
+  "id": "ikrlynphd6",
+  "name": {
+    "tr": "Meşe konsol dolap",
+    "en": "Oak sideboard",
+    "ar": "خزانة جانبية من البلوط"
+  },
+  "description": {
+    "tr": "Üç kapaklı, iç rafı ayarlanabilir; geniş yaşam alanları için.",
+    "en": "Three doors with adjustable inner shelf; made for roomy living spaces.",
+    "ar": "بثلاثة أبواب ورف داخلي قابل للتعديل؛ مصممة للمساحات الواسعة."
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "path": "mese-konsol-dolap",
+  "icon": "shelves",
+  "category": "ke78sazqnb",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 4,
+  "url": "",
+  "text": {
+    "tr": "<p>Üç kapaklı, iç rafı ayarlanabilir; geniş yaşam alanları için.</p>",
+    "en": "<p>Three doors with adjustable inner shelf; made for roomy living spaces.</p>",
+    "ar": "<p>بثلاثة أبواب ورف داخلي قابل للتعديل؛ مصممة للمساحات الواسعة.</p>"
+  },
+  "title": {
+    "tr": "Meşe konsol dolap",
+    "en": "Oak sideboard",
+    "ar": "خزانة جانبية من البلوط"
+  },
+  "date": "2026-10-30T18:30:16.358Z",
+  "update": "2026-10-30T19:17:49.178Z",
+  "desc": {
+    "malzeme": "[object Object]",
+    "olcu": "160 × 40 × 78 cm",
+    "garanti": "[object Object]"
+  },
+  "price": 14200,
+  "stock": 25,
+  "stock_status": "in_stock",
+  "image": "/img/dekor-urun-dolap.webp",
+  "badges": [],
+  "sku": "mese-konsol-dolap"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ke78sazqnb",
+  "name": {
+    "tr": "Oturma odası",
+    "en": "Living room",
+    "ar": "غرفة الجلوس"
+  },
+  "description": {
+    "tr": "Oturma odası",
+    "en": "Living room",
+    "ar": "غرفة الجلوس"
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "path": "oturma",
+  "icon": "weekend",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 3,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Oturma odası",
+    "en": "Living room",
+    "ar": "غرفة الجلوس"
+  },
+  "date": "2026-10-30T18:30:16.315Z",
+  "update": "2026-10-30T19:17:49.081Z"
+}

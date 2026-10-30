@@ -1,0 +1,40 @@
+{
+  "id": "8l89yhr3md",
+  "name": {
+    "tr": "Tasarım hizmeti",
+    "en": "Design service",
+    "ar": "خدمة التصميم"
+  },
+  "description": {
+    "tr": "Ölçüye özel üretim ve keşif randevusu.",
+    "en": "Made-to-measure production and survey appointments.",
+    "ar": "إنتاج حسب المقاس ومواعيد المعاينة."
+  },
+  "keyword": {
+    "tr": "ölçüye özel, tasarım",
+    "en": "made to measure, design",
+    "ar": "حسب المقاس، تصميم"
+  },
+  "path": "tasarim-hizmeti",
+  "icon": "design_services",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "v57jha",
+      "khm52j"
+    ],
+    "footer": []
+  },
+  "index": 2,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Tasarım hizmeti",
+    "en": "Design service",
+    "ar": "خدمة التصميم"
+  },
+  "date": "2026-10-30T18:30:16.480Z",
+  "update": "2026-10-30T19:17:49.260Z"
+}

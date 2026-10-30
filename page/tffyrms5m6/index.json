@@ -1,0 +1,37 @@
+{
+  "id": "tffyrms5m6",
+  "name": {
+    "tr": "Yatak odası",
+    "en": "Bedroom",
+    "ar": "غرفة النوم"
+  },
+  "description": {
+    "tr": "Yatak odası",
+    "en": "Bedroom",
+    "ar": "غرفة النوم"
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "path": "yatak",
+  "icon": "bed",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 1,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Yatak odası",
+    "en": "Bedroom",
+    "ar": "غرفة النوم"
+  },
+  "date": "2026-10-30T18:30:16.324Z",
+  "update": "2026-10-30T19:17:49.101Z"
+}

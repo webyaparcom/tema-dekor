@@ -1,0 +1,37 @@
+{
+  "id": "xxxp0bt4ch",
+  "name": {
+    "tr": "Yemek odası",
+    "en": "Dining room",
+    "ar": "غرفة الطعام"
+  },
+  "description": {
+    "tr": "Yemek odası",
+    "en": "Dining room",
+    "ar": "غرفة الطعام"
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "path": "yemek",
+  "icon": "table_restaurant",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 2,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Yemek odası",
+    "en": "Dining room",
+    "ar": "غرفة الطعام"
+  },
+  "date": "2026-10-30T18:30:16.319Z",
+  "update": "2026-10-30T19:17:49.095Z"
+}

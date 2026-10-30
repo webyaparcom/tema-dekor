@@ -1,0 +1,54 @@
+{
+  "id": "kxv5xhzhv0",
+  "name": {
+    "tr": "Ceviz yuvarlak yemek masası",
+    "en": "Walnut round dining table",
+    "ar": "طاولة طعام مستديرة من الجوز"
+  },
+  "description": {
+    "tr": "Ø120 cm, dört ila altı kişilik; mat vernikli ceviz kaplama.",
+    "en": "Ø120 cm, seats four to six; matt-lacquered walnut veneer.",
+    "ar": "قطر 120 سم تتسع لأربعة إلى ستة أشخاص؛ قشرة جوز بطلاء مطفي."
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "path": "ceviz-yuvarlak-yemek-masasi",
+  "icon": "table_restaurant",
+  "category": "xxxp0bt4ch",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 5,
+  "url": "",
+  "text": {
+    "tr": "<p>Ø120 cm, dört ila altı kişilik; mat vernikli ceviz kaplama.</p>",
+    "en": "<p>Ø120 cm, seats four to six; matt-lacquered walnut veneer.</p>",
+    "ar": "<p>قطر 120 سم تتسع لأربعة إلى ستة أشخاص؛ قشرة جوز بطلاء مطفي.</p>"
+  },
+  "title": {
+    "tr": "Ceviz yuvarlak yemek masası",
+    "en": "Walnut round dining table",
+    "ar": "طاولة طعام مستديرة من الجوز"
+  },
+  "date": "2026-10-30T18:30:16.353Z",
+  "update": "2026-10-30T19:17:49.178Z",
+  "desc": {
+    "malzeme": "[object Object]",
+    "olcu": "Ø120 × 75 cm",
+    "garanti": "[object Object]"
+  },
+  "price": 18500,
+  "stock": 25,
+  "stock_status": "in_stock",
+  "image": "/img/dekor-urun-masa.webp",
+  "badges": [
+    "new"
+  ],
+  "sku": "ceviz-yuvarlak-yemek-masasi"
+}

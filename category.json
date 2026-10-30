@@ -1,0 +1,97 @@
+{
+  "data": [
+    {
+      "id": "3uacb9gsm3",
+      "name": {
+        "tr": "Aydınlatma ve halı",
+        "en": "Lighting and rugs",
+        "ar": "الإضاءة والسجاد"
+      },
+      "description": {
+        "tr": "Aydınlatma ve halı",
+        "en": "Lighting and rugs",
+        "ar": "الإضاءة والسجاد"
+      },
+      "path": "aksesuar",
+      "icon": "light",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 0
+    },
+    {
+      "id": "tffyrms5m6",
+      "name": {
+        "tr": "Yatak odası",
+        "en": "Bedroom",
+        "ar": "غرفة النوم"
+      },
+      "description": {
+        "tr": "Yatak odası",
+        "en": "Bedroom",
+        "ar": "غرفة النوم"
+      },
+      "path": "yatak",
+      "icon": "bed",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 1
+    },
+    {
+      "id": "xxxp0bt4ch",
+      "name": {
+        "tr": "Yemek odası",
+        "en": "Dining room",
+        "ar": "غرفة الطعام"
+      },
+      "description": {
+        "tr": "Yemek odası",
+        "en": "Dining room",
+        "ar": "غرفة الطعام"
+      },
+      "path": "yemek",
+      "icon": "table_restaurant",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 2
+    },
+    {
+      "id": "ke78sazqnb",
+      "name": {
+        "tr": "Oturma odası",
+        "en": "Living room",
+        "ar": "غرفة الجلوس"
+      },
+      "description": {
+        "tr": "Oturma odası",
+        "en": "Living room",
+        "ar": "غرفة الجلوس"
+      },
+      "path": "oturma",
+      "icon": "weekend",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 3
+    }
+  ],
+  "desc": []
+}
