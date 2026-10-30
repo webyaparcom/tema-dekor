@@ -1,0 +1,55 @@
+{
+  "id": "0jae12ql2i",
+  "name": {
+    "tr": "Keten başlıklı baza",
+    "en": "Linen-headboard bed frame",
+    "ar": "سرير بحاجز رأس من الكتان"
+  },
+  "description": {
+    "tr": "160×200 cm yatak için; sandıklı, keten kaplı başlık.",
+    "en": "For a 160×200 cm mattress; storage base with a linen-covered headboard.",
+    "ar": "لمرتبة 160×200 سم؛ بقاعدة تخزين وحاجز رأس مكسو بالكتان."
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "path": "keten-basliklı-baza",
+  "icon": "bed",
+  "category": "tffyrms5m6",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 3,
+  "url": "",
+  "text": {
+    "tr": "<p>160×200 cm yatak için; sandıklı, keten kaplı başlık.</p>",
+    "en": "<p>For a 160×200 cm mattress; storage base with a linen-covered headboard.</p>",
+    "ar": "<p>لمرتبة 160×200 سم؛ بقاعدة تخزين وحاجز رأس مكسو بالكتان.</p>"
+  },
+  "title": {
+    "tr": "Keten başlıklı baza",
+    "en": "Linen-headboard bed frame",
+    "ar": "سرير بحاجز رأس من الكتان"
+  },
+  "date": "2026-10-30T18:30:16.363Z",
+  "update": "2026-10-30T19:17:49.177Z",
+  "desc": {
+    "malzeme": "[object Object]",
+    "olcu": "172 × 215 cm",
+    "garanti": "[object Object]"
+  },
+  "price": 21900,
+  "stock": 25,
+  "stock_status": "in_stock",
+  "image": "/img/dekor-urun-yatak.webp",
+  "badges": [
+    "sale"
+  ],
+  "sku": "keten-basliklı-baza",
+  "oldPrice": 24500
+}

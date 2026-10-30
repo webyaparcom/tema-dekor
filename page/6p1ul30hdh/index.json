@@ -1,0 +1,54 @@
+{
+  "id": "6p1ul30hdh",
+  "name": {
+    "tr": "Yün dokuma halı 160×230",
+    "en": "Woven wool rug 160×230",
+    "ar": "سجادة صوف منسوجة 160×230"
+  },
+  "description": {
+    "tr": "Nötr tonlarda, düz dokuma; her zemine uyumlu.",
+    "en": "Flat-woven in neutral tones; suits any floor.",
+    "ar": "منسوجة نسجًا مسطحًا بألوان محايدة؛ تناسب أي أرضية."
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "path": "yun-dokuma-hali",
+  "icon": "texture",
+  "category": "3uacb9gsm3",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 1,
+  "url": "",
+  "text": {
+    "tr": "<p>Nötr tonlarda, düz dokuma; her zemine uyumlu.</p>",
+    "en": "<p>Flat-woven in neutral tones; suits any floor.</p>",
+    "ar": "<p>منسوجة نسجًا مسطحًا بألوان محايدة؛ تناسب أي أرضية.</p>"
+  },
+  "title": {
+    "tr": "Yün dokuma halı 160×230",
+    "en": "Woven wool rug 160×230",
+    "ar": "سجادة صوف منسوجة 160×230"
+  },
+  "date": "2026-10-30T18:30:16.383Z",
+  "update": "2026-10-30T19:17:49.177Z",
+  "desc": {
+    "malzeme": "[object Object]",
+    "olcu": "160 × 230 cm",
+    "garanti": "[object Object]"
+  },
+  "price": 6800,
+  "stock": 25,
+  "stock_status": "in_stock",
+  "image": "/img/dekor-urun-hali.webp",
+  "badges": [
+    "new"
+  ],
+  "sku": "yun-dokuma-hali"
+}

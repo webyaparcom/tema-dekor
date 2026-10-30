@@ -1,0 +1,39 @@
+{
+  "id": "wuczoujjjp",
+  "name": {
+    "tr": "Showroom",
+    "en": "Showroom",
+    "ar": "صالة العرض"
+  },
+  "description": {
+    "tr": "Showroom ve oda kurguları.",
+    "en": "Showroom and room sets.",
+    "ar": "صالة العرض وتجهيزات الغرف."
+  },
+  "keyword": {
+    "tr": "showroom, galeri",
+    "en": "showroom, gallery",
+    "ar": "صالة عرض، معرض"
+  },
+  "path": "showroom",
+  "icon": "storefront",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "5ihypb"
+    ],
+    "footer": []
+  },
+  "index": 1,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Showroom",
+    "en": "Showroom",
+    "ar": "صالة العرض"
+  },
+  "date": "2026-10-30T18:30:16.475Z",
+  "update": "2026-10-30T19:17:49.257Z"
+}

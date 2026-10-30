@@ -1,0 +1,203 @@
+{
+  "data": [
+    {
+      "id": "gefnkh3uyu",
+      "name": {
+        "tr": "Ölçüye özel ceviz kitaplık",
+        "en": "Made-to-measure walnut bookcase",
+        "ar": "مكتبة جوز مصنوعة حسب المقاس"
+      },
+      "description": {
+        "tr": "Duvarınıza göre ölçülür ve üretilir; teslim süresi 4–6 hafta. Ölçüye özel üründe cayma hakkı yoktur.",
+        "en": "Measured and built to your wall; delivery in 4–6 weeks. Made-to-measure items carry no right of withdrawal.",
+        "ar": "تُقاس وتُصنع وفق جدارك؛ مدة التسليم 4–6 أسابيع. لا ينطبق حق العدول على المنتجات المصنوعة حسب المقاس."
+      },
+      "path": "olcuye-ozel-ceviz-kitaplik",
+      "icon": "menu_book",
+      "category": "ke78sazqnb",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 0
+    },
+    {
+      "id": "6p1ul30hdh",
+      "name": {
+        "tr": "Yün dokuma halı 160×230",
+        "en": "Woven wool rug 160×230",
+        "ar": "سجادة صوف منسوجة 160×230"
+      },
+      "description": {
+        "tr": "Nötr tonlarda, düz dokuma; her zemine uyumlu.",
+        "en": "Flat-woven in neutral tones; suits any floor.",
+        "ar": "منسوجة نسجًا مسطحًا بألوان محايدة؛ تناسب أي أرضية."
+      },
+      "path": "yun-dokuma-hali",
+      "icon": "texture",
+      "category": "3uacb9gsm3",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 1
+    },
+    {
+      "id": "hoxupk6ug3",
+      "name": {
+        "tr": "Pirinç masa lambası",
+        "en": "Brass table lamp",
+        "ar": "مصباح طاولة من النحاس"
+      },
+      "description": {
+        "tr": "Keten abajurlu, el işçiliği pirinç gövde.",
+        "en": "Linen shade on a hand-finished brass base.",
+        "ar": "بغطاء من الكتان وقاعدة نحاسية مصنوعة يدويًا."
+      },
+      "path": "pirinc-masa-lambasi",
+      "icon": "light",
+      "category": "3uacb9gsm3",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 2
+    },
+    {
+      "id": "0jae12ql2i",
+      "name": {
+        "tr": "Keten başlıklı baza",
+        "en": "Linen-headboard bed frame",
+        "ar": "سرير بحاجز رأس من الكتان"
+      },
+      "description": {
+        "tr": "160×200 cm yatak için; sandıklı, keten kaplı başlık.",
+        "en": "For a 160×200 cm mattress; storage base with a linen-covered headboard.",
+        "ar": "لمرتبة 160×200 سم؛ بقاعدة تخزين وحاجز رأس مكسو بالكتان."
+      },
+      "path": "keten-basliklı-baza",
+      "icon": "bed",
+      "category": "tffyrms5m6",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 3
+    },
+    {
+      "id": "ikrlynphd6",
+      "name": {
+        "tr": "Meşe konsol dolap",
+        "en": "Oak sideboard",
+        "ar": "خزانة جانبية من البلوط"
+      },
+      "description": {
+        "tr": "Üç kapaklı, iç rafı ayarlanabilir; geniş yaşam alanları için.",
+        "en": "Three doors with adjustable inner shelf; made for roomy living spaces.",
+        "ar": "بثلاثة أبواب ورف داخلي قابل للتعديل؛ مصممة للمساحات الواسعة."
+      },
+      "path": "mese-konsol-dolap",
+      "icon": "shelves",
+      "category": "ke78sazqnb",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 4
+    },
+    {
+      "id": "kxv5xhzhv0",
+      "name": {
+        "tr": "Ceviz yuvarlak yemek masası",
+        "en": "Walnut round dining table",
+        "ar": "طاولة طعام مستديرة من الجوز"
+      },
+      "description": {
+        "tr": "Ø120 cm, dört ila altı kişilik; mat vernikli ceviz kaplama.",
+        "en": "Ø120 cm, seats four to six; matt-lacquered walnut veneer.",
+        "ar": "قطر 120 سم تتسع لأربعة إلى ستة أشخاص؛ قشرة جوز بطلاء مطفي."
+      },
+      "path": "ceviz-yuvarlak-yemek-masasi",
+      "icon": "table_restaurant",
+      "category": "xxxp0bt4ch",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 5
+    },
+    {
+      "id": "gkzm5tdzgm",
+      "name": {
+        "tr": "Keten kaplama koltuk",
+        "en": "Linen-upholstered armchair",
+        "ar": "كرسي بذراعين مكسو بالكتان"
+      },
+      "description": {
+        "tr": "Doğal keten kumaş, masif kayın iskelet; yumuşak ve dayanıklı oturuş.",
+        "en": "Natural linen fabric on a solid beech frame; soft and durable seating.",
+        "ar": "قماش كتان طبيعي على هيكل من خشب الزان الصلب؛ جلسة مريحة ومتينة."
+      },
+      "path": "keten-kaplama-koltuk",
+      "icon": "chair",
+      "category": "ke78sazqnb",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 6
+    }
+  ],
+  "desc": [
+    {
+      "path": "malzeme",
+      "name": {
+        "tr": "Malzeme",
+        "en": "Material",
+        "ar": "الخامة"
+      }
+    },
+    {
+      "path": "olcu",
+      "name": {
+        "tr": "Ölçü",
+        "en": "Dimensions",
+        "ar": "الأبعاد"
+      }
+    },
+    {
+      "path": "garanti",
+      "name": {
+        "tr": "Garanti",
+        "en": "Warranty",
+        "ar": "الضمان"
+      }
+    }
+  ],
+  "desing": {
+    "header": [],
+    "body": [
+      "f3hcji"
+    ],
+    "footer": []
+  },
+  "modulestatus": {
+    "img": true,
+    "bgimg": true,
+    "detail": true
+  }
+}

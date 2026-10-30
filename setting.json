@@ -1,0 +1,63 @@
+{
+  "order": true,
+  "user": false,
+  "description": {
+    "tr": "Meşe Ev: doğal malzemeli mobilya ve ev dekorasyonu — koltuk, yemek masası, yatak ve aydınlatma. Ölçüye özel üretim ve 2 yıl garanti. (Demo site)",
+    "en": "Mese Ev: natural-material furniture and home decor — armchairs, dining tables, beds and lighting. Made-to-measure production and a 2-year warranty. (Demo site)",
+    "ar": "ميشه إيف: أثاث وديكور منزلي بخامات طبيعية — كراسي وطاولات طعام وأسرّة وإضاءة. إنتاج حسب المقاس وضمان لمدة سنتين. (موقع تجريبي)"
+  },
+  "keyword": {
+    "tr": "mobilya, ev dekorasyonu, koltuk, yemek masası, aydınlatma",
+    "en": "furniture, home decor, armchair, dining table, lighting",
+    "ar": "أثاث، ديكور منزلي، كرسي، طاولة طعام، إضاءة"
+  },
+  "category": "Eticaret",
+  "name": "Meşe Ev",
+  "domain": "dekor.webyapar.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "publishMode": "static",
+  "font": {
+    "body": "inter",
+    "heading": "fraunces",
+    "ar": {
+      "body": "ibm-plex-sans-arabic",
+      "heading": "noto-naskh-arabic"
+    }
+  },
+  "colorScheme": "auto",
+  "theme_color": "#8A4B2A",
+  "seo": {
+    "noindex": true
+  },
+  "cssTokens": {
+    "--mx-radius-sm": "8px",
+    "--mx-radius-md": "12px",
+    "--mx-radius-lg": "16px",
+    "--mx-radius-xl": "28px"
+  },
+  "eticaret": true,
+  "siteType": "eticaret",
+  "modSepet": true,
+  "modSiparis": true,
+  "modOdeme": true,
+  "currency": "₺",
+  "modKargo": true,
+  "modUyeler": true,
+  "modUyeAdres": true,
+  "icon": "icon.png"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "usr_bilgi",
+  "name": {
+    "tr": "Hesabım",
+    "en": "My account",
+    "ar": "حسابي"
+  },
+  "description": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "path": "hesabim",
+  "icon": "person",
+  "category": "",
+  "status": "pause",
+  "desing": {
+    "header": [],
+    "body": [
+      "l37tpp"
+    ],
+    "footer": []
+  },
+  "index": 3,
+  "url": "",
+  "title": {
+    "tr": "Hesabım",
+    "en": "My account",
+    "ar": "حسابي"
+  },
+  "date": "2026-10-30T18:26:42.402Z",
+  "update": "2026-10-30T19:17:49.220Z"
+}

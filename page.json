@@ -1,0 +1,109 @@
+{
+  "data": [
+    {
+      "name": {
+        "tr": "Ürünler",
+        "en": "Products",
+        "ar": "المنتجات"
+      },
+      "status": "play",
+      "id": "urunler",
+      "path": "urunler",
+      "category": "",
+      "url": "",
+      "index": 0,
+      "icon": "chair",
+      "desing": {
+        "header": [],
+        "body": [
+          "e1kv01",
+          "2anoia"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Mobilya ve dekorasyon ürünleri.",
+        "en": "Furniture and decor products.",
+        "ar": "منتجات الأثاث والديكور."
+      }
+    },
+    {
+      "id": "wuczoujjjp",
+      "name": {
+        "tr": "Showroom",
+        "en": "Showroom",
+        "ar": "صالة العرض"
+      },
+      "description": {
+        "tr": "Showroom ve oda kurguları.",
+        "en": "Showroom and room sets.",
+        "ar": "صالة العرض وتجهيزات الغرف."
+      },
+      "path": "showroom",
+      "icon": "storefront",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "5ihypb"
+        ],
+        "footer": []
+      },
+      "index": 1
+    },
+    {
+      "id": "8l89yhr3md",
+      "name": {
+        "tr": "Tasarım hizmeti",
+        "en": "Design service",
+        "ar": "خدمة التصميم"
+      },
+      "description": {
+        "tr": "Ölçüye özel üretim ve keşif randevusu.",
+        "en": "Made-to-measure production and survey appointments.",
+        "ar": "إنتاج حسب المقاس ومواعيد المعاينة."
+      },
+      "path": "tasarim-hizmeti",
+      "icon": "design_services",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "v57jha",
+          "khm52j"
+        ],
+        "footer": []
+      },
+      "index": 2
+    },
+    {
+      "id": "7d8hbg5gm5",
+      "name": {
+        "tr": "Teslimat ve garanti",
+        "en": "Delivery and warranty",
+        "ar": "التسليم والضمان"
+      },
+      "description": {
+        "tr": "Teslimat, iade ve garanti bilgileri.",
+        "en": "Delivery, returns and warranty information.",
+        "ar": "معلومات التسليم والاسترجاع والضمان."
+      },
+      "path": "teslimat",
+      "icon": "local_shipping",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "l7hzt1"
+        ],
+        "footer": []
+      },
+      "index": 3
+    }
+  ],
+  "desc": []
+}

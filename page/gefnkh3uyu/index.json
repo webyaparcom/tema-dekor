@@ -1,0 +1,52 @@
+{
+  "id": "gefnkh3uyu",
+  "name": {
+    "tr": "Ölçüye özel ceviz kitaplık",
+    "en": "Made-to-measure walnut bookcase",
+    "ar": "مكتبة جوز مصنوعة حسب المقاس"
+  },
+  "description": {
+    "tr": "Duvarınıza göre ölçülür ve üretilir; teslim süresi 4–6 hafta. Ölçüye özel üründe cayma hakkı yoktur.",
+    "en": "Measured and built to your wall; delivery in 4–6 weeks. Made-to-measure items carry no right of withdrawal.",
+    "ar": "تُقاس وتُصنع وفق جدارك؛ مدة التسليم 4–6 أسابيع. لا ينطبق حق العدول على المنتجات المصنوعة حسب المقاس."
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "path": "olcuye-ozel-ceviz-kitaplik",
+  "icon": "menu_book",
+  "category": "ke78sazqnb",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 0,
+  "url": "",
+  "text": {
+    "tr": "<p>Duvarınıza göre ölçülür ve üretilir; teslim süresi 4–6 hafta.</p><p><strong>Ölçüye özel üründe cayma hakkı yoktur (Mesafeli Sözleşmeler Yönetmeliği md. 15/b).</strong></p>",
+    "en": "<p>Measured and built to your wall; delivery in 4–6 weeks.</p><p><strong>Made-to-measure items carry no right of withdrawal (Distance Contracts Regulation, Art. 15/b).</strong></p>",
+    "ar": "<p>تُقاس وتُصنع وفق جدارك؛ مدة التسليم 4–6 أسابيع.</p><p><strong>لا ينطبق حق العدول على المنتجات المصنوعة حسب المقاس (لائحة العقود عن بُعد، المادة 15/ب).</strong></p>"
+  },
+  "title": {
+    "tr": "Ölçüye özel ceviz kitaplık",
+    "en": "Made-to-measure walnut bookcase",
+    "ar": "مكتبة جوز مصنوعة حسب المقاس"
+  },
+  "date": "2026-10-30T18:30:16.397Z",
+  "update": "2026-10-30T19:17:49.177Z",
+  "desc": {
+    "malzeme": "[object Object]",
+    "olcu": "[object Object]",
+    "garanti": "[object Object]"
+  },
+  "price": 32000,
+  "stock": 25,
+  "stock_status": "in_stock",
+  "image": "/img/dekor-lifestyle-4.webp",
+  "badges": [],
+  "sku": "olcuye-ozel-ceviz-kitaplik"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Meşe Ev",
+  "short_name": "Meşe Ev",
+  "description": "Meşe Ev: doğal malzemeli mobilya ve ev dekorasyonu — koltuk, yemek masası, yatak ve aydınlatma. Ölçüye özel üretim ve 2 yıl garanti. (Demo site)",
+  "start_url": "/tr/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#8A4B2A",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "/img/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

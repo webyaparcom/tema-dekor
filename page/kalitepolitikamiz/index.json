@@ -1,0 +1,41 @@
+{
+  "id": "kalitepolitikamiz",
+  "name": {
+    "tr": "Kalite Politikamız",
+    "en": "Quality Policy",
+    "ar": "سياسة الجودة"
+  },
+  "description": {
+    "tr": "Kalite politikamız",
+    "en": "Our quality policy",
+    "ar": "سياسة الجودة لدينا"
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "path": "kalitepolitikamiz",
+  "icon": "verified",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 2,
+  "url": "",
+  "text": {
+    "tr": "<h2>Kalite Politikamız</h2>\n<p>Her üründe malzeme izlenebilirliği, 2 yıl üretici garantisi ve teslimat öncesi kalite kontrolü esastır.</p>",
+    "en": "<h2>Our quality policy</h2>\n<p>Material traceability, a 2-year manufacturer warranty and pre-delivery quality control apply to every product.</p>",
+    "ar": "<h2>سياسة الجودة لدينا</h2>\n<p>تتبّع الخامات وضمان المصنّع لمدة سنتين وفحص الجودة قبل التسليم هي الأساس في كل منتج.</p>"
+  },
+  "title": {
+    "tr": "Kalite Politikamız",
+    "en": "Quality Policy",
+    "ar": "سياسة الجودة"
+  },
+  "date": "2026-10-30T18:26:30.129Z",
+  "update": "2026-10-30T19:17:49.318Z"
+}

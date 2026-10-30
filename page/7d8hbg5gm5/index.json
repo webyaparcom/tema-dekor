@@ -1,0 +1,39 @@
+{
+  "id": "7d8hbg5gm5",
+  "name": {
+    "tr": "Teslimat ve garanti",
+    "en": "Delivery and warranty",
+    "ar": "التسليم والضمان"
+  },
+  "description": {
+    "tr": "Teslimat, iade ve garanti bilgileri.",
+    "en": "Delivery, returns and warranty information.",
+    "ar": "معلومات التسليم والاسترجاع والضمان."
+  },
+  "keyword": {
+    "tr": "teslimat, garanti, iade",
+    "en": "delivery, warranty, returns",
+    "ar": "تسليم، ضمان، استرجاع"
+  },
+  "path": "teslimat",
+  "icon": "local_shipping",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "l7hzt1"
+    ],
+    "footer": []
+  },
+  "index": 3,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Teslimat ve garanti",
+    "en": "Delivery and warranty",
+    "ar": "التسليم والضمان"
+  },
+  "date": "2026-10-30T18:30:16.484Z",
+  "update": "2026-10-30T19:17:49.263Z"
+}

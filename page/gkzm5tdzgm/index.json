@@ -1,0 +1,55 @@
+{
+  "id": "gkzm5tdzgm",
+  "name": {
+    "tr": "Keten kaplama koltuk",
+    "en": "Linen-upholstered armchair",
+    "ar": "كرسي بذراعين مكسو بالكتان"
+  },
+  "description": {
+    "tr": "Doğal keten kumaş, masif kayın iskelet; yumuşak ve dayanıklı oturuş.",
+    "en": "Natural linen fabric on a solid beech frame; soft and durable seating.",
+    "ar": "قماش كتان طبيعي على هيكل من خشب الزان الصلب؛ جلسة مريحة ومتينة."
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "path": "keten-kaplama-koltuk",
+  "icon": "chair",
+  "category": "ke78sazqnb",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 6,
+  "url": "",
+  "text": {
+    "tr": "<p>Doğal keten kumaş, masif kayın iskelet; yumuşak ve dayanıklı oturuş.</p>",
+    "en": "<p>Natural linen fabric on a solid beech frame; soft and durable seating.</p>",
+    "ar": "<p>قماش كتان طبيعي على هيكل من خشب الزان الصلب؛ جلسة مريحة ومتينة.</p>"
+  },
+  "title": {
+    "tr": "Keten kaplama koltuk",
+    "en": "Linen-upholstered armchair",
+    "ar": "كرسي بذراعين مكسو بالكتان"
+  },
+  "date": "2026-10-30T18:30:16.340Z",
+  "update": "2026-10-30T19:17:49.178Z",
+  "desc": {
+    "malzeme": "[object Object]",
+    "olcu": "82 × 78 × 85 cm",
+    "garanti": "[object Object]"
+  },
+  "price": 12900,
+  "stock": 25,
+  "stock_status": "in_stock",
+  "image": "/img/dekor-urun-koltuk.webp",
+  "badges": [
+    "sale"
+  ],
+  "sku": "keten-kaplama-koltuk",
+  "oldPrice": 14900
+}

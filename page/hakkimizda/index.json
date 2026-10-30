@@ -1,0 +1,46 @@
+{
+  "name": {
+    "tr": "Hakkımızda",
+    "en": "About",
+    "ar": "من نحن"
+  },
+  "status": "play",
+  "category": "",
+  "id": "hakkimizda",
+  "url": "",
+  "path": "hakkimizda",
+  "index": 7,
+  "icon": "info",
+  "desing": {
+    "header": [],
+    "body": [
+      "e1in01"
+    ],
+    "footer": []
+  },
+  "pathnext": "",
+  "description": {
+    "tr": "Meşe Ev hikâyesi.",
+    "en": "The story of Mese Ev.",
+    "ar": "قصة ميشه إيف."
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "desc": {},
+  "title": {
+    "tr": "Hakkımızda",
+    "en": "About",
+    "ar": "من نحن"
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "text": {},
+  "update": "2026-10-30T19:17:49.267Z",
+  "date": "2026-10-30"
+}

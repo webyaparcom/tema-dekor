@@ -1,0 +1,52 @@
+{
+  "id": "hoxupk6ug3",
+  "name": {
+    "tr": "Pirinç masa lambası",
+    "en": "Brass table lamp",
+    "ar": "مصباح طاولة من النحاس"
+  },
+  "description": {
+    "tr": "Keten abajurlu, el işçiliği pirinç gövde.",
+    "en": "Linen shade on a hand-finished brass base.",
+    "ar": "بغطاء من الكتان وقاعدة نحاسية مصنوعة يدويًا."
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "path": "pirinc-masa-lambasi",
+  "icon": "light",
+  "category": "3uacb9gsm3",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 2,
+  "url": "",
+  "text": {
+    "tr": "<p>Keten abajurlu, el işçiliği pirinç gövde.</p>",
+    "en": "<p>Linen shade on a hand-finished brass base.</p>",
+    "ar": "<p>بغطاء من الكتان وقاعدة نحاسية مصنوعة يدويًا.</p>"
+  },
+  "title": {
+    "tr": "Pirinç masa lambası",
+    "en": "Brass table lamp",
+    "ar": "مصباح طاولة من النحاس"
+  },
+  "date": "2026-10-30T18:30:16.368Z",
+  "update": "2026-10-30T19:17:49.177Z",
+  "desc": {
+    "malzeme": "[object Object]",
+    "olcu": "Ø32 × 48 cm",
+    "garanti": "[object Object]"
+  },
+  "price": 2450,
+  "stock": 25,
+  "stock_status": "in_stock",
+  "image": "/img/dekor-urun-aydinlatma.webp",
+  "badges": [],
+  "sku": "pirinc-masa-lambasi"
+}
