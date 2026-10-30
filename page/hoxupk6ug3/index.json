@@ -37,11 +37,19 @@
     "ar": "مصباح طاولة من النحاس"
   },
   "date": "2026-10-30T18:30:16.368Z",
-  "update": "2026-10-30T19:17:49.177Z",
+  "update": "2026-10-30T22:34:30.619Z",
   "desc": {
-    "malzeme": "[object Object]",
+    "malzeme": {
+      "tr": "Pirinç, keten",
+      "en": "Brass, linen",
+      "ar": "نحاس وكتان"
+    },
     "olcu": "Ø32 × 48 cm",
-    "garanti": "[object Object]"
+    "garanti": {
+      "tr": "2 yıl garanti",
+      "en": "2-year warranty",
+      "ar": "ضمان لمدة سنتين"
+    }
   },
   "price": 2450,
   "stock": 25,

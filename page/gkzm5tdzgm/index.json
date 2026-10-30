@@ -37,11 +37,19 @@
     "ar": "كرسي بذراعين مكسو بالكتان"
   },
   "date": "2026-10-30T18:30:16.340Z",
-  "update": "2026-10-30T19:17:49.178Z",
+  "update": "2026-10-30T22:34:30.591Z",
   "desc": {
-    "malzeme": "[object Object]",
+    "malzeme": {
+      "tr": "Keten, masif kayın",
+      "en": "Linen, solid beech",
+      "ar": "كتان وخشب زان صلب"
+    },
     "olcu": "82 × 78 × 85 cm",
-    "garanti": "[object Object]"
+    "garanti": {
+      "tr": "2 yıl üretici garantisi",
+      "en": "2-year manufacturer warranty",
+      "ar": "ضمان المصنّع لمدة سنتين"
+    }
   },
   "price": 12900,
   "stock": 25,

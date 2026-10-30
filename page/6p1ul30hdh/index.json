@@ -37,11 +37,19 @@
     "ar": "سجادة صوف منسوجة 160×230"
   },
   "date": "2026-10-30T18:30:16.383Z",
-  "update": "2026-10-30T19:17:49.177Z",
+  "update": "2026-10-30T22:34:30.630Z",
   "desc": {
-    "malzeme": "[object Object]",
+    "malzeme": {
+      "tr": "%100 yün",
+      "en": "100% wool",
+      "ar": "صوف 100%"
+    },
     "olcu": "160 × 230 cm",
-    "garanti": "[object Object]"
+    "garanti": {
+      "tr": "2 yıl garanti",
+      "en": "2-year warranty",
+      "ar": "ضمان لمدة سنتين"
+    }
   },
   "price": 6800,
   "stock": 25,

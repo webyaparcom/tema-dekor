@@ -37,11 +37,23 @@
     "ar": "مكتبة جوز مصنوعة حسب المقاس"
   },
   "date": "2026-10-30T18:30:16.397Z",
-  "update": "2026-10-30T19:17:49.177Z",
+  "update": "2026-10-30T22:34:30.635Z",
   "desc": {
-    "malzeme": "[object Object]",
-    "olcu": "[object Object]",
-    "garanti": "[object Object]"
+    "malzeme": {
+      "tr": "Ceviz kaplama",
+      "en": "Walnut veneer",
+      "ar": "قشرة جوز"
+    },
+    "olcu": {
+      "tr": "Ölçüye özel",
+      "en": "Made to measure",
+      "ar": "حسب المقاس"
+    },
+    "garanti": {
+      "tr": "2 yıl garanti — cayma hakkı yok (md. 15/b)",
+      "en": "2-year warranty — no right of withdrawal (Art. 15/b)",
+      "ar": "ضمان سنتين — لا حق في العدول (المادة 15/ب)"
+    }
   },
   "price": 32000,
   "stock": 25,

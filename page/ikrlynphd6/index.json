@@ -37,11 +37,19 @@
     "ar": "خزانة جانبية من البلوط"
   },
   "date": "2026-10-30T18:30:16.358Z",
-  "update": "2026-10-30T19:17:49.178Z",
+  "update": "2026-10-30T22:34:30.600Z",
   "desc": {
-    "malzeme": "[object Object]",
+    "malzeme": {
+      "tr": "Masif meşe",
+      "en": "Solid oak",
+      "ar": "بلوط صلب"
+    },
     "olcu": "160 × 40 × 78 cm",
-    "garanti": "[object Object]"
+    "garanti": {
+      "tr": "2 yıl üretici garantisi",
+      "en": "2-year manufacturer warranty",
+      "ar": "ضمان المصنّع لمدة سنتين"
+    }
   },
   "price": 14200,
   "stock": 25,
