@@ -31,7 +31,7 @@
     },
     "ariaToggle": {
       "tr": "Menüyü aç/kapat",
-      "en": "Toggle menu"
+      "en": "Toggle menu", "ar": "تبديل القائمة"
     },
     "ariaClose": {
       "tr": "Menüyü kapat",

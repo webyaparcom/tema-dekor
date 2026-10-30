@@ -37,11 +37,19 @@
     "ar": "طاولة طعام مستديرة من الجوز"
   },
   "date": "2026-10-30T18:30:16.353Z",
-  "update": "2026-10-30T19:17:49.178Z",
+  "update": "2026-10-30T22:34:30.596Z",
   "desc": {
-    "malzeme": "[object Object]",
+    "malzeme": {
+      "tr": "Ceviz kaplama",
+      "en": "Walnut veneer",
+      "ar": "قشرة جوز"
+    },
     "olcu": "Ø120 × 75 cm",
-    "garanti": "[object Object]"
+    "garanti": {
+      "tr": "2 yıl üretici garantisi",
+      "en": "2-year manufacturer warranty",
+      "ar": "ضمان المصنّع لمدة سنتين"
+    }
   },
   "price": 18500,
   "stock": 25,

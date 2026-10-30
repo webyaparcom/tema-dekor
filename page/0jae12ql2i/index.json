@@ -37,11 +37,19 @@
     "ar": "سرير بحاجز رأس من الكتان"
   },
   "date": "2026-10-30T18:30:16.363Z",
-  "update": "2026-10-30T19:17:49.177Z",
+  "update": "2026-10-30T22:34:30.609Z",
   "desc": {
-    "malzeme": "[object Object]",
+    "malzeme": {
+      "tr": "Keten, MDF, çam",
+      "en": "Linen, MDF, pine",
+      "ar": "كتان وMDF وصنوبر"
+    },
     "olcu": "172 × 215 cm",
-    "garanti": "[object Object]"
+    "garanti": {
+      "tr": "2 yıl üretici garantisi",
+      "en": "2-year manufacturer warranty",
+      "ar": "ضمان المصنّع لمدة سنتين"
+    }
   },
   "price": 21900,
   "stock": 25,
