@@ -17,14 +17,16 @@
   },
   "path": "keten-basliklı-baza",
   "icon": "bed",
-  "category": "tffyrms5m6",
+  "category": "yatak",
   "status": "play",
   "desing": {
     "header": [],
-    "body": [],
+    "body": [
+      "3bc4jo"
+    ],
     "footer": []
   },
-  "index": 3,
+  "index": 5,
   "url": "",
   "text": {
     "tr": "<p>160×200 cm yatak için; sandıklı, keten kaplı başlık.</p>",
@@ -37,7 +39,7 @@
     "ar": "سرير بحاجز رأس من الكتان"
   },
   "date": "2026-10-30T18:30:16.363Z",
-  "update": "2026-10-30T22:34:30.609Z",
+  "update": "2026-11-05T23:44:13.666Z",
   "desc": {
     "malzeme": {
       "tr": "Keten, MDF, çam",

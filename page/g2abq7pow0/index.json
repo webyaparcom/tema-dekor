@@ -1,0 +1,68 @@
+{
+  "id": "g2abq7pow0",
+  "name": {
+    "tr": "Dekoratif aksesuar seti",
+    "en": "Decor accessory set",
+    "ar": "طقم إكسسوارات ديكور"
+  },
+  "description": {
+    "tr": "Seramik vazo, iki mum ve hasır sepet; raf ve konsollar için.",
+    "en": "A ceramic vase, two candles and a woven basket, for shelves and consoles.",
+    "ar": "مزهرية خزفية وشمعتان وسلة منسوجة، للرفوف والطاولات الجانبية."
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "path": "dekoratif-aksesuar-seti",
+  "icon": "local_florist",
+  "category": "aksesuar",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "p05f2v"
+    ],
+    "footer": []
+  },
+  "index": 0,
+  "url": "",
+  "text": {
+    "tr": "<p>Seramik vazo, iki mum ve hasır sepet; raf ve konsollar için.</p>",
+    "en": "<p>A ceramic vase, two candles and a woven basket, for shelves and consoles.</p>",
+    "ar": "<p>مزهرية خزفية وشمعتان وسلة منسوجة، للرفوف والطاولات الجانبية.</p>"
+  },
+  "title": {
+    "tr": "Dekoratif aksesuar seti",
+    "en": "Decor accessory set",
+    "ar": "طقم إكسسوارات ديكور"
+  },
+  "date": "2026-11-05T22:24:07.637Z",
+  "update": "2026-11-05T23:44:13.684Z",
+  "desc": {
+    "malzeme": {
+      "tr": "Seramik, hasır, soya mumu",
+      "en": "Ceramic, rattan, soy wax",
+      "ar": "خزف وخيزران وشمع الصويا"
+    },
+    "olcu": {
+      "tr": "Vazo 28 cm · sepet Ø30 cm",
+      "en": "Vase 28 cm · basket Ø30 cm",
+      "ar": "مزهرية 28 سم · سلة قطر 30 سم"
+    },
+    "garanti": {
+      "tr": "2 yıl garanti",
+      "en": "2-year warranty",
+      "ar": "ضمان لمدة سنتين"
+    }
+  },
+  "price": 1850,
+  "stock": 25,
+  "stock_status": "in_stock",
+  "image": "/img/dekor-kategori-3.webp",
+  "badges": [
+    "new"
+  ],
+  "sku": "dekoratif-aksesuar-seti"
+}
