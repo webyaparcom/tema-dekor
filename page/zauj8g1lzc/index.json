@@ -1,0 +1,62 @@
+{
+  "id": "zauj8g1lzc",
+  "name": {
+    "tr": "Kayın yemek sandalyesi (4’lü set)",
+    "en": "Beech dining chairs (set of 4)",
+    "ar": "كراسي طعام من الزان (طقم من 4)"
+  },
+  "description": {
+    "tr": "Masif kayın, keten minderli; yuvarlak ve dikdörtgen masalarla uyumlu.",
+    "en": "Solid beech with linen seat pads; pairs with round and rectangular tables.",
+    "ar": "من خشب الزان الصلب بوسائد كتان؛ تناسب الطاولات المستديرة والمستطيلة."
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "path": "kayin-yemek-sandalyesi-4lu",
+  "icon": "chair",
+  "category": "yemek",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "axkvdh"
+    ],
+    "footer": []
+  },
+  "index": 1,
+  "url": "",
+  "text": {
+    "tr": "<p>Masif kayın, keten minderli; yuvarlak ve dikdörtgen masalarla uyumlu.</p>",
+    "en": "<p>Solid beech with linen seat pads; pairs with round and rectangular tables.</p>",
+    "ar": "<p>من خشب الزان الصلب بوسائد كتان؛ تناسب الطاولات المستديرة والمستطيلة.</p>"
+  },
+  "title": {
+    "tr": "Kayın yemek sandalyesi (4’lü set)",
+    "en": "Beech dining chairs (set of 4)",
+    "ar": "كراسي طعام من الزان (طقم من 4)"
+  },
+  "date": "2026-11-05T22:24:07.630Z",
+  "update": "2026-11-05T23:44:13.678Z",
+  "desc": {
+    "malzeme": {
+      "tr": "Masif kayın, keten",
+      "en": "Solid beech, linen",
+      "ar": "زان صلب وكتان"
+    },
+    "olcu": "45 × 52 × 82 cm",
+    "garanti": {
+      "tr": "2 yıl üretici garantisi",
+      "en": "2-year manufacturer warranty",
+      "ar": "ضمان المصنّع لمدة سنتين"
+    }
+  },
+  "price": 11600,
+  "stock": 25,
+  "stock_status": "in_stock",
+  "image": "/img/dekor-kategori-2.webp",
+  "badges": [],
+  "sku": "kayin-yemek-sandalyesi-4lu"
+}

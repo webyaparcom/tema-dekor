@@ -17,14 +17,16 @@
   },
   "path": "mese-konsol-dolap",
   "icon": "shelves",
-  "category": "ke78sazqnb",
+  "category": "oturma",
   "status": "play",
   "desing": {
     "header": [],
-    "body": [],
+    "body": [
+      "r5bi0d"
+    ],
     "footer": []
   },
-  "index": 4,
+  "index": 6,
   "url": "",
   "text": {
     "tr": "<p>Üç kapaklı, iç rafı ayarlanabilir; geniş yaşam alanları için.</p>",
@@ -37,7 +39,7 @@
     "ar": "خزانة جانبية من البلوط"
   },
   "date": "2026-10-30T18:30:16.358Z",
-  "update": "2026-10-30T22:34:30.600Z",
+  "update": "2026-11-05T23:44:13.660Z",
   "desc": {
     "malzeme": {
       "tr": "Masif meşe",

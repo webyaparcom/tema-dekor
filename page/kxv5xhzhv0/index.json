@@ -17,14 +17,16 @@
   },
   "path": "ceviz-yuvarlak-yemek-masasi",
   "icon": "table_restaurant",
-  "category": "xxxp0bt4ch",
+  "category": "yemek",
   "status": "play",
   "desing": {
     "header": [],
-    "body": [],
+    "body": [
+      "ea364o"
+    ],
     "footer": []
   },
-  "index": 5,
+  "index": 7,
   "url": "",
   "text": {
     "tr": "<p>Ø120 cm, dört ila altı kişilik; mat vernikli ceviz kaplama.</p>",
@@ -37,7 +39,7 @@
     "ar": "طاولة طعام مستديرة من الجوز"
   },
   "date": "2026-10-30T18:30:16.353Z",
-  "update": "2026-10-30T22:34:30.596Z",
+  "update": "2026-11-05T23:44:13.654Z",
   "desc": {
     "malzeme": {
       "tr": "Ceviz kaplama",
