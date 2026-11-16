@@ -143,13 +143,18 @@
       "index": 1
     },
     {
-      "name": "Hero 1",
-      "path": "hero-1",
+      "name": "Açılış Vurgu Daire — marka renginde zemin, dönen halkalı daire görsel",
+      "path": "acilis-vurgu-daire",
       "local": "body",
       "category": "hero",
       "id": "e1hr01",
       "desing": {
         "max": "1200px",
+        "alt": {
+          "tr": "Keten koltuk ve ceviz sehpalı sıcak bir oturma odası",
+          "en": "A warm living room with a linen sofa and walnut coffee table",
+          "ar": "غرفة جلوس دافئة بأريكة من الكتان وطاولة جوز"
+        },
         "gradient": "linear-gradient(135deg, color-mix(in srgb, var(--mx-site-primary, #2563eb) 42%, #000), color-mix(in srgb, var(--mx-site-primary, #2563eb) 24%, #000))",
         "overlay": "linear-gradient(135deg, rgba(0,0,0,.55), rgba(0,0,0,.35))",
         "title_accent": "linear-gradient(135deg, #ffffff, #ffffff)",
@@ -175,11 +180,6 @@
           "ar": "الموسم الجديد"
         },
         "image": "/img/dekor-hero-oda.webp",
-        "alt": {
-          "tr": "Keten koltuk ve ceviz sehpalı sıcak bir oturma odası",
-          "en": "A warm living room with a linen sofa and walnut coffee table",
-          "ar": "غرفة جلوس دافئة بأريكة من الكتان وطاولة جوز"
-        },
         "btn1": {
           "tr": "Ürünleri keşfet",
           "en": "Shop products",
@@ -193,11 +193,52 @@
         },
         "btn2_url": "tasarim-hizmeti",
         "stats": "",
-        "stil": ""
+        "stil": "",
+        "bosluk": "clamp(56px, 8vw, 104px)",
+        "yuvarlak": "18px",
+        "ust": "",
+        "baslik": "",
+        "metin": "",
+        "img": "",
+        "img2": "",
+        "video": "",
+        "poster": "",
+        "cta_ad": "",
+        "cta_url": "",
+        "cta2_ad": "",
+        "cta2_url": "",
+        "rozet_ikon": "",
+        "rozet_deger": "",
+        "rozet_metin": "",
+        "bg": "var(--mx-site-primary, #2563eb)",
+        "text": "var(--mx-site-primary-contrast, #ffffff)",
+        "muted": "color-mix(in srgb, var(--mx-site-primary-contrast, #ffffff) 92%, var(--mx-site-primary, #2563eb))",
+        "kartBg": "color-mix(in srgb, var(--mx-site-primary-contrast, #ffffff) 10%, transparent)",
+        "cizgi": "color-mix(in srgb, var(--mx-site-primary-contrast, #ffffff) 28%, transparent)",
+        "accent": "var(--mx-site-primary-contrast, #ffffff)",
+        "accentInk": "var(--mx-site-primary-contrast, #ffffff)",
+        "accentText": "var(--mx-site-primary, #2563eb)",
+        "vurguBg": "var(--mx-site-primary-contrast, #ffffff)",
+        "vurguText": "var(--mx-site-primary, #2563eb)",
+        "bgcolor": "var(--mx-site-primary, #2563eb)",
+        "color": "var(--mx-site-primary-contrast, #ffffff)"
       },
       "version": "1.1.0",
-      "icon": "hero",
-      "index": 2
+      "icon": "radio_button_checked",
+      "index": 2,
+      "description": "Tüm bölüm marka renginde; bir yanda metin ve düğmeler, öbür yanda daire kırpılmış görsel ve çevresinde yavaş dönen kesik halka; maddeler görselin altında. Marka rengi zemin olur (vurgu zemini); görsel dikdörtgen değil dairedir, hareket halkadadır. Başlık h1, ilk görsel eager. Metinler dil sözlüğü, renkler desing + var(--mx-site-*), mantıksal CSS → RTL. Başlık yoksa blok basılmaz.",
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing/data",
+        "alanlar": {
+          "ikon": "madde ikonu (Material Symbols)",
+          "deger": "sayı/değer (ör. 1.200+, dil sözlüğü olabilir)",
+          "metin": "madde metni (dil sözlüğü)",
+          "img": "madde görseli (mozaik yerleşimlerde)",
+          "url": "madde bağlantısı"
+        }
+      }
     },
     {
       "name": "Kategori Vitrin (Görselli Ürün Grupları)",
@@ -367,13 +408,25 @@
       "index": 4
     },
     {
-      "name": "CTA Şerit 1",
-      "path": "cta-1",
+      "name": "Çağrı Dev Yazı — ekranı kaplayan başlık",
+      "path": "cagri-dev-yazi",
       "local": "body",
       "category": "cta",
       "id": "e1ca01",
       "desing": {
         "max": "1200px",
+        "btn1Text": {
+          "tr": "Randevu al",
+          "en": "Book a consultation",
+          "ar": "احجز استشارة"
+        },
+        "btn1Url": "tasarim-hizmeti",
+        "btn2Text": {
+          "tr": "Tüm ürünler",
+          "en": "All products",
+          "ar": "كل المنتجات"
+        },
+        "btn2Url": "urunler",
         "gradient": "linear-gradient(135deg, color-mix(in srgb, var(--mx-site-primary, #2563eb) 42%, #000), color-mix(in srgb, var(--mx-site-primary, #2563eb) 24%, #000))",
         "btnbg": "var(--mx-site-surface, #ffffff)",
         "btncolor": "var(--mx-site-text, #1b1b1b)",
@@ -387,23 +440,50 @@
           "en": "Custom-made items are exempt from the right of withdrawal; details are shared before ordering.",
           "ar": "لا يوجد حق العدول في المنتجات المصنوعة حسب الطلب؛ تُشارك التفاصيل قبل الطلب."
         },
-        "btn1Text": {
-          "tr": "Randevu al",
-          "en": "Book a consultation",
-          "ar": "احجز استشارة"
-        },
-        "btn1Url": "tasarim-hizmeti",
-        "btn2Text": {
-          "tr": "Tüm ürünler",
-          "en": "All products",
-          "ar": "كل المنتجات"
-        },
-        "btn2Url": "urunler",
-        "stil": ""
+        "stil": "",
+        "bosluk": "clamp(56px, 8vw, 104px)",
+        "yuvarlak": "18px",
+        "ust": "",
+        "baslik": "",
+        "metin": "",
+        "img": "",
+        "alt": "",
+        "ikon": "",
+        "not": "",
+        "number": "",
+        "numberText": "",
+        "waLabel": "",
+        "waTitle": "",
+        "waMessage": "",
+        "hours": "",
+        "hoursLabel": "",
+        "bg": "var(--mx-site-bg, #ffffff)",
+        "text": "var(--mx-site-text, #111318)",
+        "muted": "color-mix(in srgb, var(--mx-site-text, #111318) 68%, var(--mx-site-bg, #ffffff))",
+        "kartBg": "var(--mx-site-surface, #f6f7f9)",
+        "cizgi": "color-mix(in srgb, var(--mx-site-text, #111318) 12%, transparent)",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "accentInk": "color-mix(in srgb, var(--mx-site-primary, #2563eb) 70%, var(--mx-site-text, #111318))",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+        "vurguBg": "var(--mx-site-primary, #2563eb)",
+        "vurguText": "var(--mx-site-primary-contrast, #ffffff)",
+        "bgcolor": "var(--mx-site-bg, #ffffff)",
+        "color": "var(--mx-site-text, #111318)"
       },
       "version": "1.1.0",
-      "icon": "campaign",
-      "index": 5
+      "icon": "format_size",
+      "index": 5,
+      "description": "Başlık sayfa genişliğinde dev puntoda; altında bir yanda metin, öbür yanda yuvarlak ok düğme (birincil) ve metin bağlantısı (ikincil). Görsel/kart yok — tipografinin kendisi çağrıdır; editoryal, cesur markalar için. Metinler dil sözlüğü, renkler desing + var(--mx-site-*), mantıksal CSS → RTL. Başlık da düğme de yoksa blok basılmaz.",
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing",
+        "alanlar": {
+          "ikon": "Material Symbols adı (madde)",
+          "baslik": "dil sözlüğü (madde yazısı, zorunlu)",
+          "aciklama": "dil sözlüğü (madde alt yazısı)"
+        }
+      }
     },
     {
       "name": "E-ticaret Alt",
@@ -838,13 +918,13 @@
       "index": 8
     },
     {
-      "name": "İletişim",
-      "path": "contact-3",
+      "name": "İletişim Bölünmüş Form — kanallar + form kartı",
+      "path": "iletisim-bolunmus-form",
       "local": "body",
       "category": "contact",
       "id": "e1ct01",
       "desing": {
-        "color": "var(--mx-site-text, #1b1b1b)",
+        "color": "var(--mx-site-text, #111318)",
         "name": {
           "tr": "Bize ulaşın",
           "en": "Contact us",
@@ -852,10 +932,35 @@
         },
         "margin": "30px 0px 30px 0px",
         "linkcolor": "var(--mx-site-primary, #2563eb)",
-        "stil": ""
+        "stil": "",
+        "max": "1200px",
+        "bosluk": "clamp(56px, 8vw, 104px)",
+        "yuvarlak": "18px",
+        "ust": "",
+        "baslik": "",
+        "metin": "",
+        "adres": "",
+        "telefon": "",
+        "eposta": "",
+        "whatsapp": "",
+        "saat": "",
+        "haritaUrl": "",
+        "haritaGomme": "",
+        "waMesaj": "",
+        "bg": "var(--mx-site-surface, #f6f7f9)",
+        "text": "var(--mx-site-text, #111318)",
+        "muted": "color-mix(in srgb, var(--mx-site-text, #111318) 70%, var(--mx-site-surface, #f6f7f9))",
+        "kartBg": "var(--mx-site-bg, #ffffff)",
+        "cizgi": "color-mix(in srgb, var(--mx-site-text, #111318) 12%, transparent)",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "accentInk": "color-mix(in srgb, var(--mx-site-primary, #2563eb) 70%, var(--mx-site-text, #111318))",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+        "vurguBg": "var(--mx-site-primary, #2563eb)",
+        "vurguText": "var(--mx-site-primary-contrast, #ffffff)",
+        "bgcolor": "var(--mx-site-surface, #f6f7f9)"
       },
       "version": "1.0.0",
-      "icon": "contact_mail",
+      "icon": "vertical_split",
       "data": [
         {
           "icon": "phone",
@@ -882,7 +987,19 @@
           }
         }
       ],
-      "index": 9
+      "index": 9,
+      "description": "Bir yanda başlık, metin, ikonlu kanal listesi ve sosyal çipler; öbür yanda gölgeli kartta ad · e-posta · telefon · konu · mesaj formu. contact-7'nin bölünmüş düzeninin token'lı, tek tanımlı yeniden kurgusu: formAction/WhatsApp/mailto aynı sözleşme, KVKK onayı isteğe bağlı. Kanallar desing'den (adres · telefon · WhatsApp · e-posta · saat) + data satırları; etiketler dil sözlüğü, renkler desing + var(--mx-site-*), mantıksal CSS → RTL. Kanal yoksa blok basılmaz.",
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing",
+        "alanlar": {
+          "ikon": "Material Symbols adı (kanal türü ikondan da anlaşılır: mail · call · location_on · schedule)",
+          "deger": "dil sözlüğü (görünen değer, zorunlu; eski `text`)",
+          "url": "bağlantı (boşsa e-posta/telefon/haritadan türetilir)",
+          "baslik": "dil sözlüğü (kanal etiketi)"
+        }
+      }
     },
     {
       "name": "Maps",
@@ -905,7 +1022,7 @@
     },
     {
       "name": "Tanıtım Modülü",
-      "path": "module-1",
+      "path": "module-tanitim-3",
       "local": "body",
       "category": "module",
       "id": "e1in01",
@@ -914,11 +1031,6 @@
           "tr": "Meşe Ev",
           "en": "Mese Ev",
           "ar": "ميشه إيف"
-        },
-        "description": {
-          "tr": "Meşe Ev, doğal malzemeyi sade çizgiyle buluşturan kurgusal bir demo mobilya ve dekorasyon mağazasıdır. Ürünlerimizin tamamında 2 yıl üretici garantisi vardır.",
-          "en": "Mese Ev is a fictional demo furniture and decor store that pairs natural materials with clean lines. Every product carries a 2-year manufacturer warranty.",
-          "ar": "ميشه إيف متجر تجريبي افتراضي للأثاث والديكور يجمع بين الخامات الطبيعية والخطوط البسيطة. وتتمتع جميع منتجاتنا بضمان المصنّع لمدة سنتين."
         },
         "name2": {
           "tr": "Doğal malzeme",
@@ -952,11 +1064,19 @@
           "en": "About us",
           "ar": "من نحن"
         },
-        "stil": ""
+        "spot": {
+          "tr": "Company olarak 25 yıldır profesyonel personel kadromuz ile ithalat, ihracat, danışmanlık, lojistik ve transit ticaret alanlarında hizmet sunmaktan onur duyuyoruz. Ürünü olsun ya da olmasın, tüm firmalar için profesyonel ve kurumsal danışmanlık hizmeti sunarak firmaların etkin şekilde ithalat ya da ihracat yapmalarını sağlıyoruz."
+        }
       },
       "version": "1.1.0",
       "icon": "business",
-      "index": 11
+      "index": 11,
+      "description": "Kurumsal tanıtım ve hakkımızda modülü. Firma tanıtımı, vizyon, misyon metinlerini görsel ile birlikte sunar. 15 farklı projede kullanılır: lojistik, üretim, sağlık, kurumsal, restoran, ajans ve inşaat sektörlerinde. İki kolonlu responsive tasarım ve icon desteği içerir.",
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing/data"
+      }
     },
     {
       "name": "Siparişlerim (Pro)",
@@ -3597,10 +3717,10 @@
       "index": 24
     },
     {
-      "name": "Galeri Masonry (Filtre + Lightbox)",
-      "description": "Masonry (sütun) ya da sabit oranlı ızgara galeri: kategori çipleriyle filtre (?cat= URL durumu, aria-pressed), lightbox (klavye, filtrelenmişte yalnız görünenler gezilir), lazy yükleme (width/height ile CLS yok), görselsiz öğede nötr yer tutucu. gap:0 ile kenarsız ızgara, hover başlık. Öğeler data[] içinde {img, thumb?, title{tr,en,ar}, cat, w, h, alt{tr,en,ar}}; kategoriler desing.cats[]. Üç dil + RTL.",
+      "name": "Galeri Müze Duvarı — çerçeveli tablolar ve künye",
+      "description": "Görseller farklı boyutlarda koyu çerçeve + paspartu içinde, duvara asılı tablolar gibi ortalanmış dizilir; altında küçük künye levhası (ad · kategori · açıklama). Görseli sanat eseri gibi sunar: çerçeve, paspartu, askı ipi ve künye; düzensiz genişlikler sergi duvarı ritmi verir. Metinler dil sözlüğü, renkler desing + var(--mx-site-*), mantıksal CSS → RTL. Veri yoksa blok basılmaz.",
       "version": "1.0.0",
-      "icon": "photo_library",
+      "icon": "imagesmode",
       "category": "galeri",
       "tags": [
         "galeri",
@@ -3613,13 +3733,13 @@
       ],
       "desing": {
         "max": "1280px",
-        "bgcolor": "var(--mx-site-bg, #ffffff)",
+        "bgcolor": "var(--mx-site-surface, #f6f7f9)",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
         "textcolor": "var(--mx-site-text, #1b1b1b)",
         "mutedcolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 72%, var(--mx-site-bg, #fff))",
         "surface": "var(--mx-site-surface, #f6f6f4)",
         "surface2": "var(--mx-site-surface-2, #ececea)",
-        "accent": "var(--mx-site-primary, #2563eb)",
-        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
         "bordercolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
         "gap": "12px",
         "radius": "8px",
@@ -3727,7 +3847,22 @@
               "ar": "الغرف"
             }
           }
-        ]
+        ],
+        "bosluk": "clamp(56px, 8vw, 104px)",
+        "yuvarlak": "18px",
+        "ust": "",
+        "baslik": "",
+        "metin": "",
+        "tumu": "",
+        "bg": "var(--mx-site-surface, #f6f7f9)",
+        "text": "var(--mx-site-text, #111318)",
+        "muted": "color-mix(in srgb, var(--mx-site-text, #111318) 70%, var(--mx-site-surface, #f6f7f9))",
+        "kartBg": "var(--mx-site-bg, #ffffff)",
+        "cizgi": "color-mix(in srgb, var(--mx-site-text, #111318) 12%, transparent)",
+        "accentInk": "color-mix(in srgb, var(--mx-site-primary, #2563eb) 70%, var(--mx-site-text, #111318))",
+        "vurguBg": "var(--mx-site-primary, #2563eb)",
+        "vurguText": "var(--mx-site-primary-contrast, #ffffff)",
+        "color": "var(--mx-site-text, #111318)"
       },
       "data": [
         {
@@ -3812,9 +3947,25 @@
         }
       ],
       "id": "5ihypb",
-      "path": "galeri-masonry",
+      "path": "galeri-muze-duvar",
       "local": "body",
-      "index": 25
+      "index": 25,
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "data",
+        "alanlar": {
+          "img": "görsel yolu (boşsa yer tutucu)",
+          "baslik": "dil sözlüğü (resim adı)",
+          "alt": "dil sözlüğü (boşsa başlık)",
+          "metin": "dil sözlüğü (kısa açıklama)",
+          "kat": "kategori kimliği (desing.cats id'si)",
+          "url": "iç/dış bağlantı",
+          "w": "görsel genişliği (px, oran için)",
+          "h": "görsel yüksekliği (px)",
+          "kucuk": "küçük görsel (varsa ızgarada bu)"
+        }
+      }
     },
     {
       "name": "Tanıtım Modülü",
@@ -3824,11 +3975,6 @@
           "tr": "Size özel üretim",
           "en": "Made just for you",
           "ar": "إنتاج مخصص لك"
-        },
-        "description": {
-          "tr": "Duvarınıza, odanıza ve zevkinize göre kitaplık, gardırop ve masa üretiyoruz. Keşif randevusunda ölçü alınır, tasarım onaylandıktan sonra 4–6 haftada teslim edilir. Ölçüye özel üründe cayma hakkı yoktur (md. 15/b).",
-          "en": "We build bookcases, wardrobes and tables to your wall, room and taste. Measurements are taken at a survey appointment and, once the design is approved, delivery takes 4–6 weeks. Made-to-measure items carry no right of withdrawal (Art. 15/b).",
-          "ar": "نصنع المكتبات والخزائن والطاولات وفق جدارك وغرفتك وذوقك. تُؤخذ القياسات في موعد معاينة، وبعد اعتماد التصميم يستغرق التسليم 4–6 أسابيع. لا ينطبق حق العدول على المنتجات المصنوعة حسب المقاس (المادة 15/ب)."
         },
         "name2": {
           "tr": "Keşif ve ölçü",
@@ -3862,22 +4008,29 @@
           "en": "Custom size and design",
           "ar": "القياس والتصميم الخاص"
         },
-        "stil": ""
+        "spot": {
+          "tr": "Company olarak 25 yıldır profesyonel personel kadromuz ile ithalat, ihracat, danışmanlık, lojistik ve transit ticaret alanlarında hizmet sunmaktan onur duyuyoruz. Ürünü olsun ya da olmasın, tüm firmalar için profesyonel ve kurumsal danışmanlık hizmeti sunarak firmaların etkin şekilde ithalat ya da ihracat yapmalarını sağlıyoruz."
+        }
       },
       "category": "module",
       "description": "Kurumsal tanıtım ve hakkımızda modülü. Firma tanıtımı, vizyon, misyon metinlerini görsel ile birlikte sunar. Ana sayfa şeridi ve temalar için varsayılan cok dilli metinler. İki kolonlu responsive tasarım, W2 animasyon ve icon desteği içerir.",
       "version": "1.1.0",
       "icon": "business",
       "id": "v57jha",
-      "path": "module-1",
+      "path": "module-tanitim-3",
       "data": [],
-      "index": 26
+      "index": 26,
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing/data"
+      }
     },
     {
-      "name": "Randevu / Rezervasyon Formu",
-      "description": "Statik randevu ve rezervasyon sihirbazı (30 Eki 2026): hizmet → uzman → tarih → saat → bilgi → onay; masa kipi (kişi sayısı + bölüm) ve gösterim kipi. Sunucusuz: gönderim WhatsApp hazır mesaj, mailto veya .ics dosyası. Kendi takvimi (Pazartesi/Cumartesi hafta başı, kapalı günler, mola, bekleme günü), üç dil (tr/en/ar, RTL), KVKK onayı, demo kipinde tarayıcıda 'randevularım' listesi.",
+      "name": "Randevu Hizmet Menüsü — noktalı fiyat listesinden seçim",
+      "description": "Yanda yapışkan başlık; ana sütunda restoran menüsü gibi hizmet satırları (ad ······ süre · fiyat, altında kısa açıklama); satıra dokununca seçilir, altında tarih/saat ve bilgiler. Hizmet seçimi bir fiyat listesi okuma deneyimi: nokta çizgili hizalama, seçili satırda vurgu şeridi; fiyatı öne çıkaran işletmeler için. Sunucusuz gönderim (formAction JSON POST › WhatsApp › .ics › mailto), kapalı gün denetimi, KVKK onayı. Metinler dil sözlüğü, renkler desing + var(--mx-site-*), mantıksal CSS → RTL. Gönderim yolu yoksa blok basılmaz.",
       "version": "1.0.0",
-      "icon": "event_available",
+      "icon": "menu_book",
       "category": "randevu",
       "tags": [
         "randevu",
@@ -3890,13 +4043,13 @@
       "desing": {
         "max": "960px",
         "bgcolor": "var(--mx-site-bg, #ffffff)",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+        "muted": "color-mix(in srgb, var(--mx-site-text, #111318) 68%, var(--mx-site-bg, #ffffff))",
         "textcolor": "var(--mx-site-text, #1b1b1b)",
         "surface": "var(--mx-site-surface, #f6f6f4)",
         "surface2": "var(--mx-site-surface-2, #ececea)",
-        "accent": "var(--mx-site-primary, #2563eb)",
-        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
         "bordercolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
-        "muted": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 72%, var(--mx-site-bg, #fff))",
         "errcolor": "color-mix(in srgb, #c81e1e 72%, var(--mx-site-text, #1b1b1b))",
         "mode": "randevu",
         "submit": "whatsapp",
@@ -4527,13 +4680,39 @@
             "en": "Table reservation – {party}",
             "ar": "حجز طاولة – {party}"
           }
-        }
+        },
+        "bosluk": "clamp(56px, 8vw, 104px)",
+        "yuvarlak": "18px",
+        "ust": "",
+        "baslik": "",
+        "metin": "",
+        "bg": "var(--mx-site-bg, #ffffff)",
+        "text": "var(--mx-site-text, #111318)",
+        "kartBg": "var(--mx-site-surface, #f6f7f9)",
+        "cizgi": "color-mix(in srgb, var(--mx-site-text, #111318) 12%, transparent)",
+        "accentInk": "color-mix(in srgb, var(--mx-site-primary, #2563eb) 70%, var(--mx-site-text, #111318))",
+        "vurguBg": "var(--mx-site-primary, #2563eb)",
+        "vurguText": "var(--mx-site-primary-contrast, #ffffff)",
+        "color": "var(--mx-site-text, #111318)"
       },
       "id": "khm52j",
-      "path": "randevu-formu",
+      "path": "randevu-hizmet-menu",
       "local": "body",
       "data": [],
-      "index": 27
+      "index": 27,
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing",
+        "alanlar": {
+          "ad": "hizmet adı (dil sözlüğü, zorunlu) — eski `services[].name`",
+          "sure": "dakika — eski `duration`",
+          "fiyat": "sayı (sayfa diliyle biçimlenir) — eski `price`",
+          "ikon": "Material Symbols adı",
+          "metin": "kısa açıklama (dil sözlüğü)",
+          "img": "görsel (destekleyen yerleşimde)"
+        }
+      }
     },
     {
       "name": "Tanıtım Modülü",
@@ -4543,11 +4722,6 @@
           "tr": "Teslimat ve garanti",
           "en": "Delivery and warranty",
           "ar": "التسليم والضمان"
-        },
-        "description": {
-          "tr": "Stoktaki ürünler 1–3 iş günü içinde kargoya verilir; büyük mobilyalar montaj hizmetiyle teslim edilir. 500 ₺ üzeri siparişlerde kargo ücretsizdir. Tüm ürünlerde 2 yıl üretici garantisi vardır ve garanti belgesi pakettedir. Ölçüye özel ürünlerde cayma hakkı yoktur.",
-          "en": "In-stock items ship within 1–3 business days; large furniture is delivered with fitting service. Shipping is free on orders over 500 TRY. Every product has a 2-year manufacturer warranty, and the warranty certificate is in the package. Made-to-measure items carry no right of withdrawal.",
-          "ar": "تُشحن المنتجات المتوفرة خلال 1–3 أيام عمل، ويُسلَّم الأثاث الكبير مع خدمة التركيب. الشحن مجاني للطلبات التي تزيد عن 500 ليرة. وتتمتع جميع المنتجات بضمان المصنّع لمدة سنتين، وشهادة الضمان داخل الطرد. لا ينطبق حق العدول على المنتجات المصنوعة حسب المقاس."
         },
         "name2": {
           "tr": "Kolay iade",
@@ -4581,16 +4755,23 @@
           "en": "Delivery and warranty",
           "ar": "التسليم والضمان"
         },
-        "stil": ""
+        "spot": {
+          "tr": "Company olarak 25 yıldır profesyonel personel kadromuz ile ithalat, ihracat, danışmanlık, lojistik ve transit ticaret alanlarında hizmet sunmaktan onur duyuyoruz. Ürünü olsun ya da olmasın, tüm firmalar için profesyonel ve kurumsal danışmanlık hizmeti sunarak firmaların etkin şekilde ithalat ya da ihracat yapmalarını sağlıyoruz."
+        }
       },
       "category": "module",
       "description": "Kurumsal tanıtım ve hakkımızda modülü. Firma tanıtımı, vizyon, misyon metinlerini görsel ile birlikte sunar. Ana sayfa şeridi ve temalar için varsayılan cok dilli metinler. İki kolonlu responsive tasarım, W2 animasyon ve icon desteği içerir.",
       "version": "1.1.0",
       "icon": "business",
       "id": "l7hzt1",
-      "path": "module-1",
+      "path": "module-tanitim-3",
       "data": [],
-      "index": 28
+      "index": 28,
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing/data"
+      }
     },
     {
       "name": "Maps",

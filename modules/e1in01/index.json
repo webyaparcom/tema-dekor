@@ -2,53 +2,39 @@
   "name": "Tanıtım Modülü",
   "local": "body",
   "desing": {
-    "stil": "",
     "name": {
-      "tr": "Bizi Tanıyın",
-      "en": "About Us",
-      "ar": "تعرف علينا"
+      "tr": "Company'i Tanıyın"
     },
-    "description": {
-      "tr": "Yılların deneyimi ve uzman kadromuzla kurumsal çözümler sunuyoruz. Kalite, güven ve sürdürülebilir büyüme odaklı çalışıyoruz.",
-      "en": "With years of experience and an expert team we deliver corporate solutions focused on quality, trust and sustainable growth.",
-      "ar": "نقدم حلولاً مؤسسية بخبرة سنوات وفريق متخصص. نعمل بتركيز على الجودة والثقة والنمو المستدام."
+    "spot": {
+      "tr": "Company olarak 25 yıldır profesyonel personel kadromuz ile ithalat, ihracat, danışmanlık, lojistik ve transit ticaret alanlarında hizmet sunmaktan onur duyuyoruz. Ürünü olsun ya da olmasın, tüm firmalar için profesyonel ve kurumsal danışmanlık hizmeti sunarak firmaların etkin şekilde ithalat ya da ihracat yapmalarını sağlıyoruz."
     },
     "name2": {
-      "tr": "Vizyonumuz",
-      "en": "Our Vision",
-      "ar": "رؤيتنا"
+      "tr": "Vizyonumuz"
     },
     "spot2": {
-      "tr": "Sektörümüzde yenilikçi yaklaşımlarla öncü olmak.",
-      "en": "To lead our industry with innovative approaches.",
-      "ar": "أن نكون روّاداً في قطاعنا بمقاربات مبتكرة."
+      "tr": "Tüm sektörlerde yapacağımız inovasyonlarla adımızdan söz ettirmek."
     },
-    "icon2": "visibility",
+    "icon2": "home",
     "name3": {
-      "tr": "Misyonumuz",
-      "en": "Our Mission",
-      "ar": "مهمتنا"
+      "tr": "Misyonumuz"
     },
     "spot3": {
-      "tr": "İhtiyaç duyulan çözümleri hızlı ve şeffaf sunmak.",
-      "en": "Deliver needed solutions quickly and transparently.",
-      "ar": "تقديم الحلول المطلوبة بسرعة وشفافية."
+      "tr": "Hizmet sunduğumuz alanlarda ihtiyaç duyulan çözümleri sunmak."
     },
-    "icon3": "flag",
+    "icon3": "home",
     "img": "index.jpg",
     "bgcolor": "#1e3046",
     "fontcolor": "#fff",
     "margintop": "20",
     "marginbotton": "20",
     "title": {
-      "tr": "Kurumsal",
-      "en": "Corporate",
-      "ar": "مؤسسي"
+      "tr": "",
+      "en": ""
     }
   },
   "category": "module",
-  "description": "Kurumsal tanıtım ve hakkımızda modülü. Firma tanıtımı, vizyon, misyon metinlerini görsel ile birlikte sunar. Ana sayfa şeridi ve temalar için varsayılan cok dilli metinler. İki kolonlu responsive tasarım, W2 animasyon ve icon desteği içerir. Görsel varyant desing.stil (31 Eki 2026): \"\" klasik (beyaz çerçeveli yuvarlak görsel, bugünkü görünüm) · \"yuzen-gorsel\" (dik kart görsel bandın dışına taşar, gölgeli, hafif eğik) · \"cerceve-ofset\" (kare görsel, arkasında kaymış primary renk çerçeve) · \"ikon-liste\" (yatay görsel + vizyon/misyon ikonlu madde listesi; ikon icon2/icon3). Bant zemini/yazısı bgcolor/fontcolor çifti kalır; eklenen renkler yalnız var(--mx-site-*) token.",
-  "version": "1.2.0",
+  "description": "Kurumsal tanıtım ve hakkımızda modülü. Firma tanıtımı, vizyon, misyon metinlerini görsel ile birlikte sunar. 15 farklı projede kullanılır: lojistik, üretim, sağlık, kurumsal, restoran, ajans ve inşaat sektörlerinde. İki kolonlu responsive tasarım ve icon desteği içerir.",
+  "version": "1.0.0",
   "icon": "business",
   "veri": {
     "statik": true,
