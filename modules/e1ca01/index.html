@@ -7,7 +7,7 @@
 
 <style>
   /* cagri-dev-yazi — Görsel/kart yok — tipografinin kendisi çağrıdır; editoryal, cesur markalar için. */
-  .modulex-cagri-dev-yazi { box-sizing: border-box; width: 100%; padding: --bosluk-- 20px; background: --bg--; color: --text--; font-size: 1rem; line-height: 1.6; font-family: var(--mx-font-sans, inherit); overflow-wrap: break-word; }
+  .modulex-cagri-dev-yazi { box-sizing: border-box; width: 100%; padding: --bosluk-- 20px; background: --bg--; color: --yaziRenk--; font-size: 1rem; line-height: 1.6; font-family: var(--mx-font-sans, inherit); overflow-wrap: break-word; }
   .modulex-cagri-dev-yazi *, .modulex-cagri-dev-yazi *::before, .modulex-cagri-dev-yazi *::after { box-sizing: border-box; }
   /* ham/css.css «* { font-size: 14px }» kalıtımı keser — modül içinde boyut üstten gelsin (ikon yazı tipi hariç) */
   .modulex-cagri-dev-yazi :where(*:not(.material-symbols-outlined)) { font-size: inherit; }
@@ -30,7 +30,7 @@
   .modulex-cagri-dev-yazi-cta { display: flex; flex-wrap: wrap; gap: 12px; margin-block-start: 8px; }
   .modulex-cagri-dev-yazi-dugme { display: inline-flex; align-items: center; gap: 8px; min-height: 48px; padding: 12px 22px; border: 2px solid --accent--; border-radius: 999px; background: --accent--; color: --accentText--; font-weight: 700; text-decoration: none; transition: transform 0.25s ease, background 0.25s ease, color 0.25s ease; }
   .modulex-cagri-dev-yazi-dugme:hover { transform: translateY(-2px); }
-  .modulex-cagri-dev-yazi-dugme--ikincil { background: transparent; color: --text--; border-color: --cizgi--; }
+  .modulex-cagri-dev-yazi-dugme--ikincil { background: transparent; color: --yaziRenk--; border-color: --cizgi--; }
   .modulex-cagri-dev-yazi-dugme--ikincil:hover { border-color: --accent--; }
   .modulex-cagri-dev-yazi-dugme .material-symbols-outlined { font-size: 20px; }
 
@@ -41,7 +41,7 @@
   .modulex-cagri-dev-yazi-yuvarlak { display: grid; place-items: center; align-content: center; gap: 4px; width: 148px; height: 148px; padding: 12px; border-radius: 50%; background: --accent--; color: --accentText--; font-weight: 700; text-align: center; text-decoration: none; line-height: 1.2; transition: transform 0.35s ease; }
   .modulex-cagri-dev-yazi-yuvarlak:hover { transform: scale(1.06) rotate(-4deg); }
   .modulex-cagri-dev-yazi-yuvarlak .material-symbols-outlined { font-size: 30px; }
-  .modulex-cagri-dev-yazi-bag { color: --text--; font-weight: 700; text-decoration: underline; text-underline-offset: 6px; text-decoration-thickness: 2px; transition: color 0.25s ease; }
+  .modulex-cagri-dev-yazi-bag { color: --yaziRenk--; font-weight: 700; text-decoration: underline; text-underline-offset: 6px; text-decoration-thickness: 2px; transition: color 0.25s ease; }
   .modulex-cagri-dev-yazi-bag:hover { color: --accentInk--; }
   @media (max-width: 768px) {
     .modulex-cagri-dev-yazi-alt { flex-direction: column; align-items: flex-start; }
